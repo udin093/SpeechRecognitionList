@@ -1,0 +1,2 @@
+# SpeechRecognitionList
+SpeechRecognition + CoreData + Animation
